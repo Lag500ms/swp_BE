@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.SWP391_Project.Swp391ProjectApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.655 s -- in com.SWP391_Project.Swp391ProjectApplicationTests
